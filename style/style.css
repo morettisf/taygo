@@ -1,0 +1,21 @@
+* {
+ box-sizing: border-box;
+}
+
+#content {
+ width: 480px;
+ margin: 0 auto;
+}
+
+.editor {
+ border: 1px solid grey;
+ padding: 6px;
+ min-height: 80px;
+}
+
+.container {
+  margin-top: 300px;
+  margin-left: 0 !important;
+  padding: 0 !important;
+/*  float: right;*/
+}
